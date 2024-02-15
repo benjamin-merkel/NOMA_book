@@ -6,7 +6,8 @@ book:
 Norwegian ocean management areas (NOMA) 
 - A synthesis of a decade of SEATRACK"
   author: "Benjamin Merkel & Hallvard Strøm"
-  date: "1/25/2024"
+  navbar:
+    search: true
   chapters:
     - index.qmd
     - abstract.qmd
@@ -32,8 +33,6 @@ format:
     cover-image: cover.png
     embed-resources: true
     self-contained-math: true
-  pdf:
-    documentclass: scrreprt
 
 editor: source
 
