@@ -1,0 +1,25 @@
+# Step 2 - Automated processing procedure {.unnumbered}
+
+Determining positions using light‐level geolocation can be achieved using threshold methods and curve‐fitting methods [@RN14382]. Using the light-level and time information contained in the **raw logger data (a)**, we applied an automated processing procedure to determine, filter, and edit twilight events and calculate geographic positions using the threshold method (@fig-expl). The procedure is described in detail in @RN14582. It further removes unrealistic positions using filters on equinox periods, speed, distribution, angle, distance, variation in timing of twilights and mid-night sun periods and smooths positions. The one aspect not automated is the calibration of sun elevation angles, crucial to estimate the latitudinal aspect of positions. It is based on a subjective, but high repeatability assessment for each annual track for each bird.
+
+![Conceptual illustration of information used to estimate locations from light level data using the threshold method.](figures/light-level geolocation expl.png){#fig-expl}
+
+The automated processing procedure yields a **filtered location dataset (b)** for each of the eleven SEATRACK species containing up to two locations per bird and day (one location at noon and one at midnight), with a total of 3 945 645 unique processed locations from 3 933 individuals for the eleven species tracked (@tbl-overview).
+
+| **Species**              | **N ~colonies~** | **N ~inds~** | **N ~tracks~** | **N ~pos~** |
+|---------------|--------------:|--------------:|--------------:|--------------:|
+| Black-legged kittiwake   |               22 |          981 |          2 267 |   1 111 256 |
+| Brünnich's guillemot     |               16 |          519 |          1 213 |     521 348 |
+| Herring gull             |                9 |           57 |            128 |      66 517 |
+| Northern fulmar          |               16 |          346 |            892 |     401 803 |
+| Atlantic puffin          |               17 |          531 |          1 071 |     461 379 |
+| Common guillemot         |               13 |          523 |          1 252 |     616 103 |
+| European shag            |                6 |          248 |            539 |     215 696 |
+| Glaucous gull            |                4 |          117 |            233 |      79 584 |
+| Little auk               |                5 |          297 |            392 |     148 558 |
+| Common eider             |                7 |          276 |            571 |     280 017 |
+| Lesser black-backed gull |                5 |           38 |             82 |      43 384 |
+|                          |                  |              |                |             |
+| Total                    |               55 |        3 933 |          8 640 |   3 945 645 |
+
+: Summary of tracking data collected as part of SEATRACK inside and outside the Norwegian Ocean Management areas (Figure 3). Number of colonies where individuals have been tracked, as well as total number of individuals, annual tracks (often incomplete) and positions obtained over the project period. {#tbl-overview}

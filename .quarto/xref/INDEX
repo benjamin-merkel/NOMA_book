@@ -1,0 +1,44 @@
+{
+  "index.qmd": {
+    "index.html": "b1321909"
+  },
+  "intro.qmd": {
+    "intro.html": "ba23a19c"
+  },
+  "summary.qmd": {
+    "summary.html": "25ec68bc"
+  },
+  "references.qmd": {
+    "references.html": "0431baa1"
+  },
+  "abstract.qmd": {
+    "abstract.html": "dcae5952"
+  },
+  "methods.qmd": {
+    "methods.html": "b69e81df"
+  },
+  "step1.qmd": {
+    "step1.html": "f0ee4d3d"
+  },
+  "step2.qmd": {
+    "step2.html": "8994e0dc"
+  },
+  "oa-results.qmd": {
+    "oa-results.html": "75a9a3e7"
+  },
+  "sp-results.qmd": {
+    "sp-results.html": "642d9e42"
+  },
+  "glgu.qmd": {
+    "glgu.html": "78db168b"
+  },
+  "birds-from-NOMA.qmd": {
+    "birds-from-NOMA.html": "5520426a"
+  },
+  "birds-in-NOMA.qmd": {
+    "birds-in-NOMA.html": "3c588bc9"
+  },
+  "oa-migration.qmd": {
+    "oa-migration.html": "860c7eed"
+  }
+}
