@@ -1,0 +1,42 @@
+project:
+  type: book
+
+book:
+  title: "Seabirds in the 
+Norwegian ocean management areas (NOMA) 
+- A synthesis of a decade of SEATRACK"
+  author: "Benjamin Merkel & Hallvard Strøm"
+  date: "1/25/2024"
+  chapters:
+    - index.qmd
+    - abstract.qmd
+    - part: methods.qmd
+      chapters:
+      - step1.qmd
+      - step2.qmd
+    - part: oa-results.qmd
+      chapters:
+      - birds-in-NOMA.qmd
+      - birds-from-NOMA.qmd
+      - oa-migration.qmd
+    - part: sp-results.qmd
+      chapters:
+      - glgu.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    cover-image: figures/Alkhornet_Benjamin Merkel.JPG
+    embed-resources: true
+    self-contained-math: true
+  pdf:
+    documentclass: scrreprt
+    cover-image: cover.png
+  epub:
+    cover-image: cover.png
+
+editor: source
+

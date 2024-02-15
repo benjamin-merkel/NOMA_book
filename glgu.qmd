@@ -1,0 +1,117 @@
+# Glaucous gull (*Larus hyperboreus*) {.unnumbered}
+
+NO: polarmåke
+
+![Photo: Benjamin Merkel](Species/Glaucous gull/Glaucous gull_Benjamin Merkel 4.JPG)
+
+Data contributors: *G.T. Hallgrimsson, S.B. Ragnarsdottir, S. Descamps, B. Moe, H. Strøm, K. Sagerup, K. Elliott, M. Gavrilo*
+
+## General description {.unnumbered}
+
+The glaucous gull has a circumpolar, high arctic, breeding distribution (Figure 103). In Norway it occurs on Jan Mayen, Bjørnøya, and Svalbard (Figure 104). The total breeding population in the Northeast Atlantic is estimated at 5 000 - 6 000 breeding pairs (Table 41), with the majority breeding in the eastern and northern Barents Sea and on Iceland (Petersen et al., 2015).
+
++-------------------------------+------------------------------+--------------------------------------------------+
+| **Country/region**            | **Number of breeding pairs** | **Percent covered by the abundance dataset (f)** |
++===============================+=============================:+=================================================:+
+|                               |                              |                                                  |
++-------------------------------+------------------------------+--------------------------------------------------+
+| *in the Barents Sea*          |                              |                                                  |
++-------------------------------+------------------------------+--------------------------------------------------+
+| Svalbard (w/o Bjørnøya)       |                 1 300        | 98%                                              |
++-------------------------------+------------------------------+--------------------------------------------------+
+| Bjørnøya                      |                    650       | 100%                                             |
++-------------------------------+------------------------------+--------------------------------------------------+
+| Subtotal                      |                 1 950        | 99%                                              |
++-------------------------------+------------------------------+--------------------------------------------------+
+|                               |                              |                                                  |
++-------------------------------+------------------------------+--------------------------------------------------+
+| *in the Norwegian Sea*        |                              |                                                  |
++-------------------------------+------------------------------+--------------------------------------------------+
+| Jan Mayen                     |                    200       | 0%                                               |
++-------------------------------+------------------------------+--------------------------------------------------+
+| Subtotal                      |                    200       | 0%                                               |
++-------------------------------+------------------------------+--------------------------------------------------+
+|                               |                              |                                                  |
++-------------------------------+------------------------------+--------------------------------------------------+
+| *in the North Sea*            |                              |                                                  |
++-------------------------------+------------------------------+--------------------------------------------------+
+| Subtotal                      |             0                | \-                                               |
++-------------------------------+------------------------------+--------------------------------------------------+
+|                               |                              |                                                  |
++-------------------------------+------------------------------+--------------------------------------------------+
+| *North Atlantic outside NOMA* |                              |                                                  |
++-------------------------------+------------------------------+--------------------------------------------------+
+| Russian European Arctic       |                 1 250        | 26%                                              |
++-------------------------------+------------------------------+--------------------------------------------------+
+| Iceland                       |                 1 750        | 100%                                             |
++-------------------------------+------------------------------+--------------------------------------------------+
+| Subtotal                      |                 3 000        | 69%                                              |
++-------------------------------+------------------------------+--------------------------------------------------+
+|                               |                              |                                                  |
++-------------------------------+------------------------------+--------------------------------------------------+
+| Total                         |                 5 150        | 78%                                              |
++-------------------------------+------------------------------+--------------------------------------------------+
+
+: Glaucous gull population sizes within each Norwegian Ocean Management Area (NOMA) and the Northeast Atlantic. {#tbl-glgu-pop}
+
+The glaucous gull is a generalist predator that feeds on a wide variety of fish, molluscs, crustaceans, eggs, chicks and adults of other seabirds, insects, carrion, refuse and offal. Birds breeding in or close to bird colonies are often specialized in preying upon eggs, chicks, and adult birds of certain seabird species (Bustnes et al., 2003).
+
+![Glaucous gull general geographic range (IUCN Red List of Threatened Species. v2021-3). Black shapes denote Norwegian Ocean Management Areas (NOMA).](figures/Globe%20Larus%20hyperboreus.png){#fig-glgu-global}
+
+![Glaucous gull breeding population distribution within the Norwegian Ocean Management Areas (NOMA).](figures/HAVOM_Larus%20hyperboreus%20breeding%20distribution.png){#fig-glgu-havom}
+
+## Population status and trend {.unnumbered}
+
+Some local Glaucous gull populations appear to be declining significantly. Population declines may be attributable to egg harvest, contaminants, or food shortages, but other factors operating outside the breeding season should not be excluded (Petersen et al., 2015). Overall population trends seem to be stable. The species is red listed in Norway (Table 42).
+
+## SEATRACK GLS deployments and retrievals {.unnumbered}
+
+Since 2014 loggers have been deployed in two colonies in Norway (Kongsfjorden and Bjørnøya, Figure 104), as well as in colonies in Iceland and Franz Josef Land. Altogether 517 loggers have been deployed and 239 retrieved between 2014 and 2022, which gives an overall retrieval rate of 46 %. In total 233 tracks are available from the four breeding sites (Table 43).
+
++--------------------------------+------------------+---------------+--------------+----------------+-------------+
+| **Colony/Country**             | **N ~colonies~** | **N ~years~** | **N ~inds~** | **N ~tracks~** | **N ~pos~** |
++--------------------------------+------------------+---------------+--------------+----------------+-------------+
+|                                |                  |               |              |                |             |
++--------------------------------+------------------+---------------+--------------+----------------+-------------+
+| *in the Barents Sea*           |                  |               |              |                |             |
++--------------------------------+------------------+---------------+--------------+----------------+-------------+
+| Kongsfjorden (West Svalbard)   |                  | 7             | 28           | 54             | 14 547      |
++--------------------------------+------------------+---------------+--------------+----------------+-------------+
+| Bjørnøya                       |                  | 7             | 49           | 102            | 32 072      |
++--------------------------------+------------------+---------------+--------------+----------------+-------------+
+| Subtotal                       | 2                |               | 77           | 156            | 46 619      |
++--------------------------------+------------------+---------------+--------------+----------------+-------------+
+|                                |                  |               |              |                |             |
++--------------------------------+------------------+---------------+--------------+----------------+-------------+
+| *in the Norwegian Sea*         |                  |               |              |                |             |
++--------------------------------+------------------+---------------+--------------+----------------+-------------+
+| Subtotal                       | 0                |               | 0            | 0              | 0           |
++--------------------------------+------------------+---------------+--------------+----------------+-------------+
+|                                |                  |               |              |                |             |
++--------------------------------+------------------+---------------+--------------+----------------+-------------+
+| *in the North Sea*             |                  |               |              |                |             |
++--------------------------------+------------------+---------------+--------------+----------------+-------------+
+| Subtotal                       | 0                |               | 0            | 0              | 0           |
++--------------------------------+------------------+---------------+--------------+----------------+-------------+
+|                                |                  |               |              |                |             |
++--------------------------------+------------------+---------------+--------------+----------------+-------------+
+| *North Atlantic outside NOMA*  |                  |               |              |                |             |
++--------------------------------+------------------+---------------+--------------+----------------+-------------+
+| European Russian Arctic        | 1                | 4             | 17           | 26             | 6 779       |
++--------------------------------+------------------+---------------+--------------+----------------+-------------+
+| Iceland                        | 1                | 6             | 23           | 51             | 26 186      |
++--------------------------------+------------------+---------------+--------------+----------------+-------------+
+| Subtotal                       | 2                |               | 40           | 77             | 32 965      |
++--------------------------------+------------------+---------------+--------------+----------------+-------------+
+|                                |                  |               |              |                |             |
++--------------------------------+------------------+---------------+--------------+----------------+-------------+
+| Total                          | 4                |               | 117          | 233            | 79 584      |
++--------------------------------+------------------+---------------+--------------+----------------+-------------+
+
+: Glaucous gull tracking data collected within SEATRACK inside and outside the Norwegian Ocean Management areas (NOMA). Number of colonies where individuals have been tracked, number of years since 2014 that individuals have been tracked there as well as total number of individuals, annual tracks (often incomplete) and positions obtained over the project period. Colony names in NOMA correspond to Figure 4. {#tbl-glgu-gls}
+
+## Which areas are used by birds breeding in each NOMA throughout the year? {.unnumbered}
+
+Glaucous gulls breeding in the Barents Sea NOMA mainly stay in the western Barents Sea throughout the year (Figure 105). Those individuals experience polar night during winter, precluding location estimation (Figure 106). Consequently, the temporal data coverage for these populations is low during mid-winter. A part of the populations breeding in West Svalbard (Kongsfjorden) migrate as far south as Iceland and the Faroe Islands (Figure 105). Most of the Barents Sea NOMA populations spend their autumn around Svalbard and move south towards the coasts of northern Norway (from Lofoten to eastern Finnmark) during winter.
+
+![Diversity. Seasonal space use of tracked Glaucous gull populations breeding in the three NOMA areas as well as the rest of the North Atlantic. Space use is visualised as 75% kernel utilization distribution contours. Note that locations could not be estimated during the equinox periods as well as during polar night conditions at high latitudes (Figure 8). Colony locations are coloured by region (Figure 3). Grey shapes indicate seasonal average 90% sea ice cover during the study period.](figures/kernel data/WHOLE_Glaucous_gull seasonal diversity of NA colonies vertical.png){#fig-glgu-div}
