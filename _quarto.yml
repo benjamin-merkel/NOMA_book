@@ -29,14 +29,11 @@ bibliography: references.bib
 format:
   html:
     theme: cosmo
-    cover-image: figures/Alkhornet_Benjamin Merkel.JPG
+    cover-image: cover.png
     embed-resources: true
     self-contained-math: true
   pdf:
     documentclass: scrreprt
-    cover-image: cover.png
-  epub:
-    cover-image: cover.png
 
 editor: source
 
